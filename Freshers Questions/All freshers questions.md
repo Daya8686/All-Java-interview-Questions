@@ -35,6 +35,8 @@
 33. What are the differences between C++ and Java?
 34. List the features of the Java programming language.
 35. What are Java design patterns you have used in your application?
+36. What is JIT compiler?
+37.What is WORA concept in Java?
 
 ---
 ## Object-Oriented Programming (OOP) Concepts
