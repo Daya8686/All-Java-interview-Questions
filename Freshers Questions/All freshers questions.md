@@ -46,7 +46,7 @@
 16. What is the final keyword in Java?
 17. What is the finalize() method?
 18. Difference between throw and throws?
-19. Why is 1 == 1 true but 1000 == 1000 false when dealing with Wrapper Classes in Java?
+19. Why is 1 == 1 true but 500 == 500 false when dealing with Wrapper Classes in Java?
 20. What are variable arguments in Java?
 21. Where should we use Enum?
 22. How do you initialize a BigInteger?
