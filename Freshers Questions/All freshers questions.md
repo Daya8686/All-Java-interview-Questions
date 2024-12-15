@@ -206,6 +206,7 @@
 4. What are the Memory Allocations available in Java?
 5. Why don’t we have destructors in Java?
 6. What is object cloning?
+7. What are the types of garbage collection?
 
 ## File Handling
 ---
